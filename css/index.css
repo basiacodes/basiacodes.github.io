@@ -1,0 +1,190 @@
+.version.index /* version checker */
+{
+	color: #0000FB;
+	background-color: #682E7B;
+}
+
+#page
+{
+	background-color: transparent;
+	background-image: none;
+	border-width: 0px;
+	z-index: 1;
+	border-color: #000000;
+	margin-left: auto;
+	width: 100%;
+	margin-right: auto;
+}
+
+#u94-4
+{
+	z-index: 2;
+	position: relative;
+}
+
+#u101-4
+{
+	vertical-align: top;
+	display: block;
+	position: relative;
+	z-index: 6;
+}
+
+#u122
+{
+	background-color: #8200C8;
+	position: relative;
+	z-index: 12;
+	margin-right: -10000px;
+}
+
+#u119
+{
+	background-color: #FF1E74;
+	position: relative;
+	width: 34.8%;
+	z-index: 11;
+	margin-right: -10000px;
+}
+
+#u116
+{
+	background-color: #00325B;
+	position: relative;
+	z-index: 10;
+	margin-right: -10000px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 961px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 393px;
+		padding-top: 45px;
+		padding-bottom: 62px;
+		max-width: 1440px;
+	}
+
+	#u94-4
+	{
+		width: 25.07%;
+		margin-left: 17.85%;
+	}
+
+	#u101-4
+	{
+		margin-top: 33px;
+		width: 64.31%;
+		margin-left: 17.85%;
+	}
+
+	#pu116
+	{
+		margin-top: 46px;
+		width: 100%;
+	}
+
+	#u116
+	{
+		height: 385px;
+		width: 32.64%;
+		left: 67.37%;
+	}
+
+	#u119
+	{
+		height: 385px;
+		left: 32.57%;
+	}
+
+	#u122
+	{
+		height: 385px;
+		width: 32.64%;
+	}
+}
+
+@media (max-width: 960px)
+{
+	#muse_css_mq
+	{
+		background-color: #0003c0;
+	}
+
+	#bp_960.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 391.95000000000016px;
+		padding-top: 46px;
+		padding-bottom: 62.04999999999984px;
+		max-width: 960px;
+	}
+
+	#u94-4
+	{
+		width: 25.11%;
+		margin-left: 2.09%;
+	}
+
+	#u101-4
+	{
+		margin-top: 32px;
+		width: 88.75%;
+		margin-left: 2.09%;
+	}
+
+	#pu122
+	{
+		margin-top: 46px;
+		width: 100%;
+	}
+
+	#u122
+	{
+		height: 288px;
+		width: 32.61%;
+	}
+
+	#u119
+	{
+		height: 288px;
+		left: 32.61%;
+	}
+
+	#u116
+	{
+		height: 288px;
+		width: 32.61%;
+		left: 67.4%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+
